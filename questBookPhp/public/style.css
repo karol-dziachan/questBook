@@ -1,0 +1,21 @@
+.book{
+    border-style: solid;
+    border-width: 1px;
+    margin: 20px;
+    padding: 20px;
+}
+
+*{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(241, 228, 185);
+}
+
+fieldset, .book{
+    background-color: rgb(227, 214, 173);
+}
+textarea, #author{
+    background-color: rgb(255,250,233);
+}
